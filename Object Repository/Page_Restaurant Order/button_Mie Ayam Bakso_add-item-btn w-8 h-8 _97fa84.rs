@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mie Ayam Bakso_add-item-btn w-8 h-8 _97fa84</name>
+   <tag></tag>
+   <elementGuidId>57abaac4-df50-47a4-b22c-c87ed34e5f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>77c7c479-0d4f-47d5-84ee-a0afed7d05e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-item-btn w-8 h-8 flex items-center justify-center bg-primary text-white rounded-full</value>
+      <webElementGuid>b7bb52fc-b3ea-4ee7-9055-db622b5a5c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>c7008de0-08e9-4a64-803e-53bfaa75c5cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-items&quot;)/div[@class=&quot;bg-white rounded-lg shadow-sm overflow-hidden flex flex-col&quot;]/div[@class=&quot;p-4 flex flex-col flex-grow&quot;]/div[@class=&quot;flex items-center justify-end mt-auto pt-4&quot;]/button[@class=&quot;add-item-btn w-8 h-8 flex items-center justify-center bg-primary text-white rounded-full&quot;]</value>
+      <webElementGuid>62c051a1-45ec-4248-af63-b4a9d7546d46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-items']/div[7]/div/div/button[2]</value>
+      <webElementGuid>22db27a7-f940-4c5c-a394-816dcd66bb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam Bakso'])[1]/following::button[2]</value>
+      <webElementGuid>e2a2e132-970e-4c66-bdcc-c2c69ab90e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam Telur Puyuh'])[1]/following::button[4]</value>
+      <webElementGuid>a839082c-0ff9-473c-b4a9-991e7c87b771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam'])[1]/preceding::button[1]</value>
+      <webElementGuid>cd311b11-b92e-4b38-8830-6555d840cff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/button[2]</value>
+      <webElementGuid>9893d642-4f6a-4169-b1d4-7a94a0c8274e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

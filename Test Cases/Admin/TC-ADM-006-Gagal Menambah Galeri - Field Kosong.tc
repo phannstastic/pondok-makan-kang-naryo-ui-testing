@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-006-Gagal Menambah Galeri - Field Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff8e0dc3-ca7a-4ef2-ac9e-cc99d2693206</testCaseGuid>
+</TestCaseEntity>

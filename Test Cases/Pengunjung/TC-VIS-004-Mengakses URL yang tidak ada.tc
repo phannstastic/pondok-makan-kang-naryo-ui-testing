@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VIS-004-Mengakses URL yang tidak ada</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1adafbf8-3a08-4c7c-89f0-cb6328335285</testCaseGuid>
+</TestCaseEntity>

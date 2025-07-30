@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-005-Gagal Menambah Item Menu - Tipe File Salah</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0553d170-bc61-40ff-9e61-f0f092be2dec</testCaseGuid>
+</TestCaseEntity>

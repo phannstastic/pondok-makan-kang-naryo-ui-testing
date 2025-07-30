@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bakso_add-item-btn w-8 h-8 flex item_3bcc42</name>
+   <tag></tag>
+   <elementGuidId>1a517bab-bc65-418f-a302-069e8368b748</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-items']/div[3]/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>923efe3e-3a89-462a-af3b-fcb25021c08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-item-btn w-8 h-8 flex items-center justify-center bg-primary text-white rounded-full</value>
+      <webElementGuid>7b9882fb-e64a-4a2e-9bab-f4a3a4734550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>15baabee-2852-4054-9e4c-8cabaa2aea01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-items&quot;)/div[@class=&quot;bg-white rounded-lg shadow-sm overflow-hidden flex flex-col&quot;]/div[@class=&quot;p-4 flex flex-col flex-grow&quot;]/div[@class=&quot;flex items-center justify-end mt-auto pt-4&quot;]/button[@class=&quot;add-item-btn w-8 h-8 flex items-center justify-center bg-primary text-white rounded-full&quot;]</value>
+      <webElementGuid>7c6a8361-d79d-4865-80cd-0b3baaade96e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-items']/div[3]/div/div/button[2]</value>
+      <webElementGuid>178a59fb-31ef-46a0-8260-a2c106c60153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso'])[1]/following::button[2]</value>
+      <webElementGuid>8a78ca51-5732-4238-a995-7c078e89e2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso Besar'])[1]/following::button[4]</value>
+      <webElementGuid>b9d08394-88d9-4047-94c9-83815e6d53d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soto Sapi'])[1]/preceding::button[1]</value>
+      <webElementGuid>9fa5e8f9-259c-47a9-866a-87761eaf2eca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam Goreng'])[1]/preceding::button[3]</value>
+      <webElementGuid>c5db010b-26af-4646-88f2-7563c5cb172c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button[2]</value>
+      <webElementGuid>0cec58b7-e9ed-4ce0-94b6-1928bef9f6ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>e4075c9b-3ee7-44c0-b817-802c2c686a2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/following::h1[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>0389ffa2-3548-4291-a054-9d9a454cea1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-header-heading text-2xl font-bold tracking-tight text-gray-950 dark:text-white sm:text-3xl</value>
+      <webElementGuid>2a3a637d-0263-4d1d-8cb8-60217e229d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Dashboard
+        </value>
+      <webElementGuid>59d2195c-e9a4-47d7-b360-2bc6ba48a72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi min-h-screen&quot;]/body[@class=&quot;fi-body fi-panel-admin min-h-screen bg-gray-50 font-normal text-gray-950 antialiased dark:bg-gray-950 dark:text-white&quot;]/div[@class=&quot;fi-layout flex min-h-screen w-full flex-row-reverse overflow-x-clip&quot;]/div[@class=&quot;fi-main-ctn w-screen flex-1 flex-col opacity-0&quot;]/main[@class=&quot;fi-main mx-auto h-full w-full px-4 md:px-6 lg:px-8 max-w-7xl&quot;]/div[@class=&quot;fi-page fi-dashboard-page&quot;]/section[@class=&quot;flex flex-col gap-y-8 py-8&quot;]/header[@class=&quot;fi-header flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between&quot;]/div[1]/h1[@class=&quot;fi-header-heading text-2xl font-bold tracking-tight text-gray-950 dark:text-white sm:text-3xl&quot;]</value>
+      <webElementGuid>17f6493f-4ffa-4abb-99ad-b2f2cdae984c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/following::h1[1]</value>
+      <webElementGuid>f062dd31-7781-446b-8797-dd2e11cd533e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::h1[1]</value>
+      <webElementGuid>6dab56f1-4273-4f82-aa90-85e43338dd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c76041e0-1212-4440-8cd4-92ed9d74c353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[2]/preceding::h1[1]</value>
+      <webElementGuid>264bd649-8dda-4b81-8277-3efaf42a13a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dashboard']/parent::*</value>
+      <webElementGuid>50f02f35-a9e5-4fc8-8202-4560d2e8b73e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>082f66c2-2191-4be9-b4ef-023dc69cc03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '
+            Dashboard
+        ' or . = '
+            Dashboard
+        ')]</value>
+      <webElementGuid>8aa8d372-8384-4d9a-9146-60769eb02f56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CUST-003-End-to-End Berhasil Membuat Struk</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b4b5844-0bd8-4d89-a9b7-c2aab6010360</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>21bb88f5-c061-4f32-95e4-aaa303e54155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>181ab6c9-4446-47dd-8d92-3384ce1ab48f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>be98a75b-a4a3-49a2-8312-6bf828ae10d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M.664 10.59a1.651 1.651 0 0 1 0-1.186A10.004 10.004 0 0 1 10 3c4.257 0 7.893 2.66 9.336 6.41.147.381.146.804 0 1.186A10.004 10.004 0 0 1 10 17c-4.257 0-7.893-2.66-9.336-6.41ZM14 10a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z</value>
+      <webElementGuid>eb856dde-4ef5-4b54-8bfd-7039529dd8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>clip-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>87300b4d-351e-4ea4-b517-0c33fa349a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;grid grid-cols-[--cols-default] fi-fo-component-ctn gap-6&quot;]/div[@class=&quot;col-[--col-span-default]&quot;]/div[@class=&quot;fi-fo-field-wrp&quot;]/div[@class=&quot;grid gap-y-2&quot;]/div[@class=&quot;grid auto-cols-fr gap-y-2&quot;]/div[@class=&quot;fi-input-wrp flex rounded-lg shadow-sm ring-1 transition duration-75 bg-white dark:bg-white/5 [&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-2 ring-gray-950/10 dark:ring-white/20 [&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-primary-600 dark:[&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-primary-500 fi-fo-text-input overflow-hidden&quot;]/div[@class=&quot;fi-input-wrp-suffix flex items-center gap-x-3 pe-3 border-s border-gray-200 ps-3 dark:border-white/10&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/button[@class=&quot;fi-icon-btn relative flex items-center justify-center rounded-lg outline-none transition duration-75 focus-visible:ring-2 -m-1.5 h-8 w-8 text-gray-400 hover:text-gray-500 focus-visible:ring-primary-600 dark:text-gray-500 dark:hover:text-gray-400 dark:focus-visible:ring-primary-500 fi-color-gray fi-ac-action fi-ac-icon-btn-action&quot;]/svg[@class=&quot;fi-icon-btn-icon h-5 w-5&quot;]/path[2]</value>
+      <webElementGuid>fd997936-41ae-4b1c-b152-6afac4599bbf</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

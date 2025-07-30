@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VIS-001-Mengakses Website</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>183e3ed6-b96c-4394-b802-77df10455b3d</testCaseGuid>
+</TestCaseEntity>

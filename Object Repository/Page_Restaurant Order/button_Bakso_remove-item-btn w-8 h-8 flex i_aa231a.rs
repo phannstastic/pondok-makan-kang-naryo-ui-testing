@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bakso_remove-item-btn w-8 h-8 flex i_aa231a</name>
+   <tag></tag>
+   <elementGuidId>2a209964-624b-404d-ba79-9b5a32a6e5a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-items']/div[3]/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c285212e-265b-4229-a85e-24fe953055e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>remove-item-btn w-8 h-8 flex items-center justify-center bg-gray-200 rounded-full</value>
+      <webElementGuid>2dc5dfe6-0c93-465d-b5d6-abd87d5f8492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>787f949d-bf2c-4c62-aedc-d6f56c93f6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-items&quot;)/div[@class=&quot;bg-white rounded-lg shadow-sm overflow-hidden flex flex-col&quot;]/div[@class=&quot;p-4 flex flex-col flex-grow&quot;]/div[@class=&quot;flex items-center justify-end mt-auto pt-4&quot;]/button[@class=&quot;remove-item-btn w-8 h-8 flex items-center justify-center bg-gray-200 rounded-full&quot;]</value>
+      <webElementGuid>5b3237c4-24fe-4a7b-83ba-58613ad11c23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-items']/div[3]/div/div/button</value>
+      <webElementGuid>f1cee5d1-761c-412c-8ff5-3bc0cb53ae23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso'])[1]/following::button[1]</value>
+      <webElementGuid>03944ea2-0116-465f-be12-ca3d074f6146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso Besar'])[1]/following::button[3]</value>
+      <webElementGuid>6e761ecd-196b-4c5d-8e88-73a845e33f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soto Sapi'])[1]/preceding::button[2]</value>
+      <webElementGuid>05263879-6ab4-48df-b83e-2dc2398c64ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam Goreng'])[1]/preceding::button[4]</value>
+      <webElementGuid>7eeba240-5516-4b53-b9e0-e324a7e89142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/button</value>
+      <webElementGuid>21e449e3-7435-412d-8219-380c7d25c040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

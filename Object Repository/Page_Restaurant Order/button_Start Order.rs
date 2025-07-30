@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start Order</name>
+   <tag></tag>
+   <elementGuidId>7ee119a0-bb1a-4052-b513-35d9ccaa916e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49624cee-1791-449b-a5ea-ee03701de607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4d645f78-4cca-4c55-811e-9859a533e938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full bg-primary text-white py-3 px-6 rounded-button font-medium hover:bg-opacity-90 transition-all whitespace-nowrap</value>
+      <webElementGuid>e8047a43-968c-4216-aebd-f6aa74d9383a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Order</value>
+      <webElementGuid>d355e08d-d948-4836-bc52-28d36facf691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;welcome-form&quot;)/div[2]/button[@class=&quot;w-full bg-primary text-white py-3 px-6 rounded-button font-medium hover:bg-opacity-90 transition-all whitespace-nowrap&quot;]</value>
+      <webElementGuid>be3461b6-6443-43ba-8853-42544e0cf612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>f2a44bd8-77c4-4a0e-b14d-c625634968e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='welcome-form']/div[2]/button</value>
+      <webElementGuid>1a172a68-d842-4e23-82d8-5ba19f9f6cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Our Restaurant'])[1]/following::button[1]</value>
+      <webElementGuid>591d6e53-e912-418b-8a6f-8dd17402124b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest'])[1]/preceding::button[1]</value>
+      <webElementGuid>b7c048c0-793a-4071-bbe5-c08c222549cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makanan'])[1]/preceding::button[2]</value>
+      <webElementGuid>eb3d26e5-1182-4c99-9f6d-74ad2346b6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start Order']/parent::*</value>
+      <webElementGuid>fd86b693-fb80-4b8b-b2df-2639bc258953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>22d8e15d-daa6-4cc0-bac2-d532c230bfad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Start Order' or . = 'Start Order')]</value>
+      <webElementGuid>63ddb8e5-df79-4d58-b5b0-816c91935cda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

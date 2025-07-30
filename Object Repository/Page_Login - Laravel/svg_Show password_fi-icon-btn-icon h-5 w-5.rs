@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Show password_fi-icon-btn-icon h-5 w-5</name>
+   <tag></tag>
+   <elementGuidId>61ead147-7c79-43ff-8b52-a29680389921</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Show password'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.fi-icon-btn-icon.h-5.w-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8dd38f54-c975-40e4-adb0-a20948fe4ce6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-icon-btn-icon h-5 w-5</value>
+      <webElementGuid>ac127caf-b028-4548-88a8-0d9c4ee0e07b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>1a76f999-5e34-4fc3-baba-c9d212006778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>c7655c76-f06b-4aa8-af5a-f06559e40db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>69e9a333-1703-4b29-a7a1-4e8ee02f3c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>370e984a-1940-41cb-b372-1b169c1426c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-slot</name>
+      <type>Main</type>
+      <value>icon</value>
+      <webElementGuid>f4533509-1153-4272-8cea-da408417bfe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form&quot;)/div[@class=&quot;grid grid-cols-[--cols-default] fi-fo-component-ctn gap-6&quot;]/div[@class=&quot;col-[--col-span-default]&quot;]/div[@class=&quot;fi-fo-field-wrp&quot;]/div[@class=&quot;grid gap-y-2&quot;]/div[@class=&quot;grid auto-cols-fr gap-y-2&quot;]/div[@class=&quot;fi-input-wrp flex rounded-lg shadow-sm ring-1 transition duration-75 bg-white dark:bg-white/5 [&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-2 ring-gray-950/10 dark:ring-white/20 [&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-primary-600 dark:[&amp;:not(:has(.fi-ac-action:focus))]:focus-within:ring-primary-500 fi-fo-text-input overflow-hidden&quot;]/div[@class=&quot;fi-input-wrp-suffix flex items-center gap-x-3 pe-3 border-s border-gray-200 ps-3 dark:border-white/10&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/button[@class=&quot;fi-icon-btn relative flex items-center justify-center rounded-lg outline-none transition duration-75 focus-visible:ring-2 -m-1.5 h-8 w-8 text-gray-400 hover:text-gray-500 focus-visible:ring-primary-600 dark:text-gray-500 dark:hover:text-gray-400 dark:focus-visible:ring-primary-500 fi-color-gray fi-ac-action fi-ac-icon-btn-action&quot;]/svg[@class=&quot;fi-icon-btn-icon h-5 w-5&quot;]</value>
+      <webElementGuid>244a4c3e-fec6-48af-82bb-9586b2bc4aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show password'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a1df0d65-00be-4cff-ac69-7fdba90e6bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>f2322bfa-d751-428c-b235-b68cc6f789d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hide password'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ea407402-8975-4c31-803d-1abc6dff2b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>2f351cfb-2488-48a1-a624-882c8f5faf1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

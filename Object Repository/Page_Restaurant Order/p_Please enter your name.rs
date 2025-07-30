@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Please enter your name</name>
+   <tag></tag>
+   <elementGuidId>f2fc635e-2dfe-49a8-9568-15ce1f3d623d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#name-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='name-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>44877fb2-972d-446b-a06a-a1063ed8017c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name-error</value>
+      <webElementGuid>92c6d092-4488-4b1d-a69a-44ee5c073a78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-red-500 text-sm mt-1</value>
+      <webElementGuid>2a3390c4-4ae1-4c10-93d6-0e06cf00e687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter your name</value>
+      <webElementGuid>8d8e079b-2e56-48ce-abfc-17fd378419eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;name-error&quot;)</value>
+      <webElementGuid>11adebe4-4b1b-4471-a751-1275ab88952b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='name-error']</value>
+      <webElementGuid>8ed2ef7e-16e2-411d-ace6-6c68cdee2100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='welcome-form']/div/p</value>
+      <webElementGuid>be2873ca-ded9-42f6-934b-83fd97934c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Our Restaurant'])[1]/following::p[2]</value>
+      <webElementGuid>deabc0e1-f4d8-472c-8ac9-f5dbc8b59bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Order'])[1]/preceding::p[1]</value>
+      <webElementGuid>54e91e39-ac66-4d60-ac29-85330b1ec20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guest'])[1]/preceding::p[1]</value>
+      <webElementGuid>67b98567-6ff8-4d12-bd92-631679654986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter your name']/parent::*</value>
+      <webElementGuid>2a127d0f-fcae-473e-9319-cc63f5c2bd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/p</value>
+      <webElementGuid>b61e25a7-a027-4301-ac07-bc6625cf466a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'name-error' and (text() = 'Please enter your name' or . = 'Please enter your name')]</value>
+      <webElementGuid>a75283b2-4e8b-4d6e-a56c-638d2eb00504</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

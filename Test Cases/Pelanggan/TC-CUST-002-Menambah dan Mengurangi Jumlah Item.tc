@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CUST-002-Menambah dan Mengurangi Jumlah Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05327c52-c90a-4d32-9408-b09fd966c422</testCaseGuid>
+</TestCaseEntity>

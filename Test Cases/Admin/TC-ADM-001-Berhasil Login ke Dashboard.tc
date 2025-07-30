@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-001-Berhasil Login ke Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>128da3a8-b3ae-4d7c-97ee-3ae20688aa2d</testCaseGuid>
+</TestCaseEntity>

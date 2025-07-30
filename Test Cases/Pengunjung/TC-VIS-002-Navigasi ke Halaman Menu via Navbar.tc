@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VIS-002-Navigasi ke Halaman Menu via Navbar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b4ce5b6-7433-4740-b68e-42c100a110bb</testCaseGuid>
+</TestCaseEntity>

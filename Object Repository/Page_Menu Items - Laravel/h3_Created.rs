@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Created</name>
+   <tag></tag>
+   <elementGuidId>ec23c8c9-e326-4eff-9f5d-5cd88aabe2a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pesanan'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>baace9b0-552b-4441-bdcc-d9ba0096f385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-no-notification-title text-sm font-medium text-gray-950 dark:text-white</value>
+      <webElementGuid>2ec7c363-38ad-40da-b6bd-8347df78073e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Created
+</value>
+      <webElementGuid>d4663c8d-7ab9-4477-a537-93b86515384f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi min-h-screen&quot;]/body[@class=&quot;fi-body fi-panel-admin min-h-screen bg-gray-50 font-normal text-gray-950 antialiased dark:bg-gray-950 dark:text-white&quot;]/div[2]/div[@class=&quot;fi-no pointer-events-none fixed inset-4 z-50 mx-auto flex gap-3 items-end flex-col-reverse justify-end&quot;]/div[@class=&quot;pointer-events-auto invisible fi-no-notification w-full overflow-hidden transition duration-300 max-w-sm rounded-xl bg-white shadow-lg ring-1 dark:bg-gray-900 ring-gray-950/5 dark:ring-white/10 fi-color-gray fi-status-success&quot;]/div[@class=&quot;flex w-full gap-3 p-4&quot;]/div[@class=&quot;mt-0.5 grid flex-1&quot;]/h3[@class=&quot;fi-no-notification-title text-sm font-medium text-gray-950 dark:text-white&quot;]</value>
+      <webElementGuid>e10a410f-fd0c-43b8-9e9b-7a9c1d617361</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pesanan'])[1]/following::h3[1]</value>
+      <webElementGuid>aa7e96a6-5fe8-4378-896e-8f0bb498c5b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Toko'])[2]/following::h3[1]</value>
+      <webElementGuid>ac1c89f5-c5e9-419d-b575-e68bcc6e5f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Created']/parent::*</value>
+      <webElementGuid>2071a780-5d9d-4515-849c-e9ec5186f928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>6e69bfd2-cebf-411d-9a8f-bbac22f70f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+    Created
+' or . = '
+    Created
+')]</value>
+      <webElementGuid>60beb193-64d2-42cf-846e-10c0e2c8ce90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

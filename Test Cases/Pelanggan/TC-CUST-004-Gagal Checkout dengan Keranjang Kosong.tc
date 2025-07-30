@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CUST-004-Gagal Checkout dengan Keranjang Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7ae464a-858d-4478-a59c-7a52fce5547c</testCaseGuid>
+</TestCaseEntity>

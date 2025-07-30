@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-004-Berhasil Menambah Item Menu Baru</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61e47ade-a007-4d90-a58e-29542ac4f012</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Important File\\\\Pictures\\\\ceker.jpg'</defaultValue>
+      <description></description>
+      <id>648e5577-193b-473a-b163-1d61d1621510</id>
+      <masked>false</masked>
+      <name>image_menu</name>
+   </variable>
+</TestCaseEntity>

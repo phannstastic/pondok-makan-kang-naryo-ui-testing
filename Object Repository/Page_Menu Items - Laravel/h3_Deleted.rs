@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Deleted</name>
+   <tag></tag>
+   <elementGuidId>1574912c-e4d8-4418-b8c8-0160c7bbdc72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pesanan'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>e8670802-49a2-4b3f-ac75-f663997ec017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-no-notification-title text-sm font-medium text-gray-950 dark:text-white</value>
+      <webElementGuid>76de5411-51fe-43f4-ae09-825c8fd7ecd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    Deleted
+</value>
+      <webElementGuid>669db18e-c76c-4eb0-aeae-fccda102d72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi min-h-screen&quot;]/body[@class=&quot;fi-body fi-panel-admin min-h-screen bg-gray-50 font-normal text-gray-950 antialiased dark:bg-gray-950 dark:text-white&quot;]/div[2]/div[@class=&quot;fi-no pointer-events-none fixed inset-4 z-50 mx-auto flex gap-3 items-end flex-col-reverse justify-end&quot;]/div[@class=&quot;pointer-events-auto invisible fi-no-notification w-full overflow-hidden transition duration-300 max-w-sm rounded-xl bg-white shadow-lg ring-1 dark:bg-gray-900 ring-gray-950/5 dark:ring-white/10 fi-color-gray fi-status-success&quot;]/div[@class=&quot;flex w-full gap-3 p-4&quot;]/div[@class=&quot;mt-0.5 grid flex-1&quot;]/h3[@class=&quot;fi-no-notification-title text-sm font-medium text-gray-950 dark:text-white&quot;]</value>
+      <webElementGuid>eaf7ebe0-91a9-4a0b-b77a-9f08547dc21e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pesanan'])[1]/following::h3[1]</value>
+      <webElementGuid>8fa86817-72f0-440a-b6db-0bac305b5fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Toko'])[2]/following::h3[1]</value>
+      <webElementGuid>993794e7-cb04-40d4-ba5a-7458d063a7d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Deleted']/parent::*</value>
+      <webElementGuid>8f7b7997-ea07-4eb9-83f1-e0be84b09b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>3d0f7c1d-5c5f-47db-b49d-737d516ed559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '
+    Deleted
+' or . = '
+    Deleted
+')]</value>
+      <webElementGuid>8cd8b781-b006-4bda-9f60-6578fd6001d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-008-Berhasil Menghapus Item Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c685ce1c-9eea-4b31-8b06-aac1e285fe7f</testCaseGuid>
+</TestCaseEntity>

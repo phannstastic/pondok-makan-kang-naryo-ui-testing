@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-CUST-005-Mulai Pesan Tanpa Input Nama</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50a755f3-e622-45a1-bf22-853e855a259e</testCaseGuid>
+</TestCaseEntity>

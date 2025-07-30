@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>06fab4b2-84fa-496e-8288-6afcc572542f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-items']/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee563c13-d6b8-45d6-a328-5802ccd9dfc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quantity w-10 text-center font-medium</value>
+      <webElementGuid>206cdc34-3d28-4ce6-889e-ebb4078b4abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6bf06cce-cf78-446f-8c0c-611143bfccb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-items&quot;)/div[@class=&quot;bg-white rounded-lg shadow-sm overflow-hidden flex flex-col&quot;]/div[@class=&quot;p-4 flex flex-col flex-grow&quot;]/div[@class=&quot;flex items-center justify-end mt-auto pt-4&quot;]/span[@class=&quot;quantity w-10 text-center font-medium&quot;]</value>
+      <webElementGuid>6ddf89f5-4928-4d29-921e-f2a4d0342657</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-items']/div[3]/div/div/span</value>
+      <webElementGuid>40e4ba88-14d7-42b4-84b1-aa7861e668c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso'])[1]/following::span[1]</value>
+      <webElementGuid>cd819114-b644-4e72-a6af-a0ce572dfd38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bakso Besar'])[1]/following::span[2]</value>
+      <webElementGuid>6774c0ed-a090-4ae3-a406-df04763b2404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Soto Sapi'])[1]/preceding::span[1]</value>
+      <webElementGuid>56b84e73-7c12-4b76-b55c-f1d7e9d0b9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mie Ayam Goreng'])[1]/preceding::span[2]</value>
+      <webElementGuid>8b0a42cb-4056-41e7-8d39-eb4eba505af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>08d43670-8872-49e7-af5a-11488a8270f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2' or . = '2')]</value>
+      <webElementGuid>2d168d2c-b2ce-490f-9503-38a0bd0cd95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-VIS-003-Navigasi ke Halaman Galeri via button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>60c506e5-5919-4623-81b0-bd5303c2a550</testCaseGuid>
+</TestCaseEntity>

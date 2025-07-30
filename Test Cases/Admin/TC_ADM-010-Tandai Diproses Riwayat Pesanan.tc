@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_ADM-010-Tandai Diproses Riwayat Pesanan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ac6a283-761d-455c-a84c-1533c96457bc</testCaseGuid>
+   <variable>
+      <defaultValue>'17'</defaultValue>
+      <description></description>
+      <id>7841e029-ecc3-4806-819b-f21254cb99a2</id>
+      <masked>false</masked>
+      <name>orderId</name>
+   </variable>
+</TestCaseEntity>

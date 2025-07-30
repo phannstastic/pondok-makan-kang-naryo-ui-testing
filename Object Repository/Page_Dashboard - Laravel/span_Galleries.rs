@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Galleries</name>
+   <tag></tag>
+   <elementGuidId>25719c95-dabf-43c2-bf98-af689a22178a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bf56b58e-bb72-4a6e-b3e2-220ebb72f9f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fi-sidebar-item-label flex-1 truncate text-sm font-medium text-gray-700 dark:text-gray-200</value>
+      <webElementGuid>3ea0b9ed-da4f-42b1-acbf-cee8852edb3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Galleries
+        </value>
+      <webElementGuid>0c56aee4-a685-45db-80a9-9ae4bbd649ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fi min-h-screen&quot;]/body[@class=&quot;fi-body fi-panel-admin min-h-screen bg-gray-50 font-normal text-gray-950 antialiased dark:bg-gray-950 dark:text-white&quot;]/div[@class=&quot;fi-layout flex min-h-screen w-full flex-row-reverse overflow-x-clip&quot;]/aside[@class=&quot;fi-sidebar fixed inset-y-0 start-0 z-30 flex flex-col h-screen content-start bg-white transition-all dark:bg-gray-900 lg:z-0 lg:bg-transparent lg:shadow-none lg:ring-0 lg:transition-none dark:lg:bg-transparent lg:translate-x-0 rtl:lg:-translate-x-0 fi-main-sidebar fi-sidebar-open w-[--sidebar-width] translate-x-0 shadow-xl ring-1 ring-gray-950/5 dark:ring-white/10 rtl:-translate-x-0 lg:sticky&quot;]/nav[@class=&quot;fi-sidebar-nav flex-grow flex flex-col gap-y-7 overflow-y-auto overflow-x-hidden px-6 py-8&quot;]/ul[@class=&quot;fi-sidebar-nav-groups -mx-2 flex flex-col gap-y-7&quot;]/li[@class=&quot;fi-sidebar-group flex flex-col gap-y-1 fi-active&quot;]/ul[@class=&quot;fi-sidebar-group-items flex flex-col gap-y-1&quot;]/li[@class=&quot;fi-sidebar-item&quot;]/a[@class=&quot;fi-sidebar-item-button relative flex items-center justify-center gap-x-3 rounded-lg px-2 py-2 outline-none transition duration-75 hover:bg-gray-100 focus-visible:bg-gray-100 dark:hover:bg-white/5 dark:focus-visible:bg-white/5&quot;]/span[@class=&quot;fi-sidebar-item-label flex-1 truncate text-sm font-medium text-gray-700 dark:text-gray-200&quot;]</value>
+      <webElementGuid>16442b20-88a2-410e-b8c6-42fb60f698aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      <webElementGuid>e429a93b-75dd-458d-ad01-1c0db99dcc8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laravel'])[1]/following::span[2]</value>
+      <webElementGuid>2fb087c9-72c2-437a-b7a6-23c699d0be44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu Items'])[1]/preceding::span[1]</value>
+      <webElementGuid>72ce5354-6bfb-45ea-8e0a-ac0392ae1d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manajemen Toko'])[1]/preceding::span[2]</value>
+      <webElementGuid>a7f5f0d4-5d3f-4775-9c6d-4c6ed7fa83de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Galleries']/parent::*</value>
+      <webElementGuid>30cd4188-841a-4147-9378-5d52a7a2f926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>26558e86-3c49-4b84-bafb-2874ca597774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+            Galleries
+        ' or . = '
+            Galleries
+        ')]</value>
+      <webElementGuid>bae3da02-914f-45f9-b614-8d97899e2451</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

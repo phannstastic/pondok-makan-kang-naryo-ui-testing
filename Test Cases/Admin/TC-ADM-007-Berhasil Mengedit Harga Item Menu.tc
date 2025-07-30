@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-ADM-007-Berhasil Mengedit Harga Item Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e9d06b7-7699-4fac-905c-a41be8f823e7</testCaseGuid>
+</TestCaseEntity>
