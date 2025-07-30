@@ -49,7 +49,7 @@
       <guid>c74ec7a6-10c0-49b2-83ba-e0ba0c8bf549</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Admin/TC-ADM-005-Gagal Menambah Item Menu - Tipe File Salah</testCaseId>
+      <testCaseId>Test Cases/Admin/TC-ADM-005-Gagal Menambah Item Menu - Gambar Kosong</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

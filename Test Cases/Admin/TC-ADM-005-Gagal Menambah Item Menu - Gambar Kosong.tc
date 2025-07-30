@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-ADM-005-Gagal Menambah Item Menu - Tipe File Salah</name>
+   <name>TC-ADM-005-Gagal Menambah Item Menu - Gambar Kosong</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

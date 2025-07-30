@@ -29,7 +29,7 @@
       <guid>6aaf9b5e-9068-4ac2-b9cb-957d3094f439</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Pelanggan/TC-CUST-003-End-to-End Berhasil Membuat Struk</testCaseId>
+      <testCaseId>Test Cases/Pelanggan/TC-CUST-003-Berhasil Membuat Struk</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
